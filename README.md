@@ -1,7 +1,7 @@
 # Crea una app con la API de Mistral y Code GPT
 
 ### Este proyecto implementa una aplicación de chat utilizando la API de Mistral y CodeGPT, desarrollada con Svelte.
-Desarrollado por @GustavoEspindola – CodeGPT
+Desarrollado por [@GustavoEspindola – CodeGPT](https://www.linkedin.com/in/gustavoespindola/)
 
 <!-- add an image -->
 <img src="https://raw.githubusercontent.com/gustavoespindola/llmhackathon/refs/heads/master/static/hackathon.gif" alt="llmhackathon" width="100%">
