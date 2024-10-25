@@ -64,8 +64,6 @@ npm run dev -- --open
 ```
 
 ``` bash
-  VITE v5.4.10  ready in 1058 ms
-
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
