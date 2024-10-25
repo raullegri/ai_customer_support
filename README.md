@@ -4,7 +4,7 @@
 Desarrollado por @GustavoEspindola – CodeGPT
 
 <!-- add an image -->
-<img src="/llmhackathon/static/hackathon.gif" alt="llmhackathon" width="100%">
+<img src="https://raw.githubusercontent.com/gustavoespindola/llmhackathon/refs/heads/master/static/hackathon.gif" alt="llmhackathon" width="100%">
 
 ## Requisitos Previos
 
