@@ -48,8 +48,8 @@ Para utilizar esta aplicación necesitarás:
 
 
 **Instalar dependencias**
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`)
+Todo lo que necesitas para crear un proyecto Svelte, con la tecnología de [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Una vez que hayas creado un proyecto e instalado dependencias con `npm install` (or `pnpm install` or `yarn`)
 
 `npm install`
 
@@ -88,7 +88,7 @@ npm run build
   npm run preview
 ```
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+> Para el despliegue, es posible que necesites instalar un [adapter](https://svelte.dev/docs/kit/adapters) para el entorno específico.
 
 
 **Despliegue en Vercel**
