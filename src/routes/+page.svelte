@@ -47,7 +47,7 @@
 
 <svelte:head>
 	<title>Asistente RLG</title>
-	<meta name="description" content="Mistral and CodeGPT Chatbot Demo" />
+	<meta name="description" content="Chatbot Demo" />
 </svelte:head>
 
 <main class="w-full h-full overflow-hidden">
@@ -56,7 +56,7 @@
 			<h1
 				class="text-lg font-semibold px-2 py-1 tracking-tight backdrop-blur-sm rounded-full bg-white/50"
 			>
-				LLM Hackathon
+				Asistente RLG
 			</h1>
 			<button
 				on:click={() => cleanHistory()}
