@@ -14,7 +14,7 @@
 		$messages = [];
 	}
 
-	const api = '/api/chat/mistral'; // codegpt, mistral, openai
+	const api = '/api/chat/codegpt'; // codegpt, mistral, openai
 	const { input, handleSubmit, messages, isLoading, stop } = useChat({
 		api,
 		keepLastMessageOnError: true,
