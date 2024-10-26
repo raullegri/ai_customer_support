@@ -46,7 +46,7 @@
 </script>
 
 <svelte:head>
-	<title>Hackathon LLM</title>
+	<title>Asistente RLG</title>
 	<meta name="description" content="Mistral and CodeGPT Chatbot Demo" />
 </svelte:head>
 
